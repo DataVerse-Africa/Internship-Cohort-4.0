@@ -55,7 +55,7 @@ By the end of this track, interns will be able to:
 - **SQL:** EHR database queries, patient cohort analysis
 - **Power BI:** Clinical dashboards & hospital operations reporting
 - **Tableau:** Public health visualization & geographic analysis
-- **Python (Optional but encouraged):** Epidemiological modeling, survival analysis
+- **Python:** Epidemiological modeling, survival analysis
 
 ### **Healthcare-Specific Tools:**
 - Synthetic EHR datasets (MIMIC, Synthea)
