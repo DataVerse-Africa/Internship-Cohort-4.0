@@ -886,4 +886,3 @@ By program end, each intern will have:
 
 **Program Design:** Promise Ibediogwu Ekele, Internship Coordinator  
 **Last Updated:** November 2025  
-**Version:** 1.0 - Finance Analytics Track
