@@ -30,16 +30,18 @@
 
 ### Week 1: Excel Foundations & Data Basics
 
+### Saturday, February 21, 2026
+
 #### Live Sessions:
 
-**Tuesday: Introduction to Data Analysis & Excel Fundamentals**
+**Saturday: Introduction to Data Analysis & Excel Fundamentals**
 - What is data analysis and why it matters
 - Understanding data types (text, numbers, dates, boolean)
 - Excel interface and navigation
 - Data file extensions (XLSX, CSV)
 - Basic formulas and operators (+, -, *, /)
 
-**Thursday: Functions & Cell Referencing**
+**Sunday: Functions & Cell Referencing**
 - Common Excel functions (SUM, AVERAGE, COUNT, MIN, MAX)
 - Relative vs Absolute cell referencing ($)
 - Practical examples and use cases
@@ -65,7 +67,7 @@
 
 #### Live Sessions:
 
-**Tuesday: Data Cleaning Fundamentals**
+**Saturday: Data Cleaning Fundamentals**
 - Identifying dirty data (duplicates, blanks, errors)
 - Removing duplicates
 - Handling missing values
@@ -73,7 +75,7 @@
 - TRIM, UPPER, LOWER functions
 - Find & Replace
 
-**Thursday: Data Filtering & Sorting**
+**Sunday: Data Filtering & Sorting**
 - Sorting data (single and multiple columns)
 - AutoFilter basics
 - Custom filters and criteria
@@ -101,13 +103,13 @@
 
 #### Live Sessions:
 
-**Tuesday: Lookup Functions Part 1**
+**Satuday: Lookup Functions Part 1**
 - Introduction to VLOOKUP
 - VLOOKUP syntax and parameters
 - Common VLOOKUP errors and fixes
 - Practical VLOOKUP scenarios
 
-**Thursday: Lookup Functions Part 2**
+**Sunday: Lookup Functions Part 2**
 - Introduction to XLOOKUP (modern alternative)
 - XLOOKUP advantages over VLOOKUP
 - INDEX & MATCH combination
@@ -134,7 +136,7 @@
 
 #### Live Sessions:
 
-**Tuesday: Pivot Tables & Data Summarization**
+**Saturday: Pivot Tables & Data Summarization**
 - Introduction to Pivot Tables and their power
 - Creating Pivot Tables from raw data
 - Rows, Columns, Values, Filters areas
@@ -142,7 +144,7 @@
 - Calculated fields in Pivot Tables
 - Pivot Table best practices
 
-**Thursday: Data Visualization & Charts**
+**Sunday: Data Visualization & Charts**
 - Importance of data visualization
 - Chart types and when to use them (bar, line, pie, scatter)
 - Creating and formatting charts
@@ -182,7 +184,7 @@
 
 #### Live Sessions:
 
-**Tuesday: Introduction to SQL & Databases**
+**Saturday: Introduction to SQL & Databases**
 - What is SQL and why it's essential
 - Relational databases concepts
 - Tables, rows, columns, keys
@@ -191,7 +193,7 @@
 - Data types (INTEGER, VARCHAR, DATE, BOOLEAN, etc.)
 - Order of SQL operations
 
-**Thursday: Data Definition Language (DDL)**
+**Sunday: Data Definition Language (DDL)**
 - CREATE TABLE statements
 - ALTER TABLE (add/drop columns)
 - DROP TABLE
@@ -219,7 +221,7 @@
 
 #### Live Sessions:
 
-**Tuesday: Data Query Language (DQL) - SELECT Basics**
+**Saturday: Data Query Language (DQL) - SELECT Basics**
 - SELECT statement structure
 - Selecting specific columns vs SELECT *
 - WHERE clause for filtering
@@ -228,7 +230,7 @@
 - Pattern matching with LIKE and wildcards (%, _)
 - IN and BETWEEN operators
 
-**Thursday: Sorting, Grouping & Limiting Results**
+**Saturday: Sorting, Grouping & Limiting Results**
 - ORDER BY (ascending and descending)
 - LIMIT and OFFSET for pagination
 - DISTINCT for unique values
@@ -258,14 +260,14 @@
 
 #### Live Sessions:
 
-**Tuesday: Aggregate Functions**
+**Saturday: Aggregate Functions**
 - COUNT, SUM, AVG, MIN, MAX
 - Using aggregates with GROUP BY
 - HAVING clause (filtering groups)
 - COUNT vs COUNT(DISTINCT)
 - Practical business metrics calculations
 
-**Thursday: CASE Statements & Conditional Logic**
+**Sunday: CASE Statements & Conditional Logic**
 - CASE WHEN syntax (simple and searched)
 - Creating categories with CASE
 - Conditional aggregations
@@ -293,7 +295,7 @@
 
 #### Live Sessions:
 
-**Tuesday: SQL Joins Mastery**
+**Saturday: SQL Joins Mastery**
 - Understanding table relationships
 - INNER JOIN (matching records)
 - LEFT JOIN / RIGHT JOIN (including non-matches)
@@ -303,7 +305,7 @@
 - Multiple table joins
 - Join best practices
 
-**Thursday: Subqueries, CTEs & Temp Tables**
+**Saturday: Subqueries, CTEs & Temp Tables**
 - Subqueries in SELECT, WHERE, FROM
 - Correlated vs non-correlated subqueries
 - Common Table Expressions (CTEs) with WITH clause
@@ -343,7 +345,7 @@
 
 #### Live Sessions:
 
-**Tuesday: Introduction to Power BI**
+**Saturday: Introduction to Power BI**
 - What is Power BI and its ecosystem
 - Power BI Desktop vs Service vs Mobile
 - Benefits of Power BI for data analysis
@@ -352,7 +354,7 @@
 - Importing data from Excel, CSV, databases
 - Connecting to SQL databases
 
-**Thursday: Data Transformation with Power Query**
+**Sunday: Data Transformation with Power Query**
 - Introduction to Power Query Editor
 - Loading and transforming data
 - Removing columns and rows
@@ -383,7 +385,7 @@
 
 #### Live Sessions:
 
-**Tuesday: Data Modeling in Power BI**
+**Saturday: Data Modeling in Power BI**
 - Introduction to data modeling concepts
 - Star schema vs Snowflake schema
 - Fact tables vs Dimension tables
@@ -392,7 +394,7 @@
 - Active vs inactive relationships
 - Managing relationships in Model view
 
-**Thursday: Introduction to DAX (Data Analysis Expressions)**
+**Sunday: Introduction to DAX (Data Analysis Expressions)**
 - What is DAX and why we need it
 - Calculated Columns vs Measures
 - Basic DAX functions:
@@ -428,7 +430,7 @@
 
 #### Live Sessions:
 
-**Tuesday: Creating Visualizations in Power BI**
+**Saturday: Creating Visualizations in Power BI**
 - Overview of Power BI visualization types
 - Building basic charts:
   - Bar and Column charts
@@ -440,7 +442,7 @@
 - Titles, labels, colors, fonts
 - Tooltips and data labels
 
-**Thursday: Interactive Dashboards & Advanced Features**
+**Sunday: Interactive Dashboards & Advanced Features**
 - Page layout and design principles
 - Slicers and filters
 - Cross-filtering and highlighting
